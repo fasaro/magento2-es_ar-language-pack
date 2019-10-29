@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Magento 2 Spanish (Mexico) language pack
+ * Magento 2 Spanish (Argentina) language pack
  *
  * @category   Language
- * @package    es_MX
+ * @package    es_AR
  * @author     fasaro 
  */
 -->
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
-    <code>es_MX</code>
+    <code>es_AR</code>
     <vendor>fasaro</vendor>
-    <package>es_mx</package>
+    <package>es_ar</package>
 </language>
