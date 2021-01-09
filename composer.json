@@ -1,7 +1,7 @@
 {
     "name": "fasaro/magento2-es_ar-language-pack",
     "description": "Spanish (Argentina) language package for Magento 2",
-    "version": "2.3.3",
+    "version": "2.4.0",
     "license": [
         "MIT"
     ],
